@@ -1,4 +1,4 @@
-// Your code here
+//Your code here
 const dodger = document.getElementById("dodger");
 
 function moveDodgerLeft() {
@@ -30,3 +30,5 @@ function moveDodgerRight() {
       moveDodgerRight();
     }
   });
+
+//In this lab we'll learn how to move an element on a page in response to an event.
